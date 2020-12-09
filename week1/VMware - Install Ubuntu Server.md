@@ -35,7 +35,7 @@ kemudian pilih.
 
 <img src="/week1/assets/9.png">
 
-10. Tampilan dibawah merupakan instalasi untuk ubuntu server.
+10. Tampilan dibawah merupakan tampilan utama instalasi ubuntu server.
 
 <img src="/week1/assets/10.png">
 
