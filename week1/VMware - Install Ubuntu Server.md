@@ -57,36 +57,38 @@ kemudian pilih.
 
 <img src="/week1/assets/16.png">
 
-14. Masukkan 1G dengan format Swap.
+14. Masukkan 1G dengan format swap.
 
 <img src="/week1/assets/17.png">
 
+15. Pilih Add GPT Partition.
+
 <img src="/week1/assets/18.png">
 
-15. Kemudian pilih kembali harddisk, lalu masukkan size yang masih tersisa, disini 8,997G.
+16. Kemudian pilih kembali harddisk, lalu masukkan size yang masih tersisa, disini 8,997G dengan format ext4.
 
 <img src="/week1/assets/19.png">
 
-16. Kemudian Continue.
+17. Kemudian Continue.
 
 <img src="/week1/assets/20.png">
 
-17. Selanjutnya masukkan name, server name, username & password.
+18. Selanjutnya masukkan name, server name, username & password.
 
 <img src="/week1/assets/21.png">
 
-18. Ceklist install Open SSH Server.
+19. Ceklist install Open SSH Server.
 
 <img src="/week1/assets/22.png">
 
-19. Pilih done.
+20. Pilih done.
 
 <img src="/week1/assets/23.png">
 
-20. Proses instalasi ubuntu server sedang berjalan.
+21. Proses instalasi ubuntu server sedang berjalan.
 
 <img src="/week1/assets/24.png">
 
-21. Selesai proses instalasi.
+22. Selesai proses instalasi ubuntu server.
 
 <img src="/week1/assets/25.png">
