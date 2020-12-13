@@ -12,10 +12,15 @@ nodejs versi 10.
 <img src="/week1/assets2/21.png">
 
 4. Setelah proses instalasi nodejs selesai, jalankan perintah <code>git clone https://github.com/DumbwaysDotId/DW15WDTPH_housy.git</code>.
-Kemudian masuk kedalam folder dengan perintah <code>cd DW15DWTPH_housy</code>, di dalam folder ini kita buat file bernama <code>ecosystem.config.js</code>
+Kemudian masuk kedalam folder dengan perintah <code>cd DW15DWTPH_housy</code>, di dalam folder ini kita buat file bernama <code>ecosystem.config.js</code> 
+dengan konfigurasi seperti dibawah.
 
 <img src="/week1/assets2/22.1.png">
 
+5. Selanjutnya install pm2 dengan <code>command sudo npm install -g pm2</code>
+
 <img src="/week1/assets2/22.png">
+
+6. Jalankan <code>pm2 start ecosystem.config.js</code>
 
 <img src="/week1/assets2/23.png">
