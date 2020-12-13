@@ -12,8 +12,9 @@ nodejs versi 10.
 <img src="/week1/assets2/21.png">
 
 4. Setelah proses instalasi nodejs selesai, jalankan perintah <code>git clone https://github.com/DumbwaysDotId/DW15WDTPH_housy.git</code>.
-Kemudian masuk kedalam ke dalam folder dengan perintah <code>cd DW15DWTPH_housy</code>
+Kemudian masuk kedalam folder dengan perintah <code>cd DW15DWTPH_housy</code>, di dalam folder ini kita buat file bernama <code>ecosystem.config.js</code>
 
+<img src="/week1/assets2/22.1.png">
 
 <img src="/week1/assets2/22.png">
 
