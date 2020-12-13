@@ -10,6 +10,6 @@
 
 <img src="/week1/assets2/10.png">
 
-4. Kemudian masukkan subdomain yang sudah didaftarkan ke dalam browser.
+4. Jika sudah, masuk ke server private milik kita lalu masuk ke direktori source code dan jalankan <code>npm start</code>. Kemudian masukkan subdomain yang sudah didaftarkan ke dalam browser.
 
 <img src="/week1/assets2/11.png">
