@@ -11,7 +11,8 @@ dengan konfigurasi seperti dibawah, dimana <code>server_name 52.23.84.89</code> 
 <img src="/week1/assets2/16.png">
 
 3. Selanjutnya masuk ke dalam folder nginx.conf dengan perintah <code>sudo nano /etc/nginx/nginx.conf</code> tambahkan lokasi direktori dari file
-conf yang sudah dibuat sebelumnya dan masukkan dengan command <code>include /etc/nginx/ahmadrofiqef/*</code> di dalam file nginx.conf.
+conf yang sudah dibuat sebelumnya dan masukkan dengan command <code>include /etc/nginx/ahmadrofiqef/*</code> di dalam file nginx.conf. Setelah semua
+langkah dilakukan, restart nginx services dengan perintah <code>sudo systemctl restart nginx</code>.
 
 <img src="/week1/assets2/17.png">
 
