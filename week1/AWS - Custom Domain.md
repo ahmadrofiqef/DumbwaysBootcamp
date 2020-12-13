@@ -6,10 +6,10 @@
 
 <img src="/week1/assets2/9.png">
 
-3. Lalu ubah server_name menjadi ahmadrofiqef.instructype.com
+3. Lalu ubah server_name menjadi subdomain ahmadrofiqef.instructype.com
 
 <img src="/week1/assets2/10.png">
 
-4. Kemudian masukkan domain yang sudah didaftarkan ke dalam browser.
+4. Kemudian masukkan subdomain yang sudah didaftarkan ke dalam browser.
 
 <img src="/week1/assets2/11.png">
