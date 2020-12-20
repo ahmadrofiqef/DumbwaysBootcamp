@@ -3,7 +3,7 @@
 
 <li> install library pendukung seperti nodejs dan pm2 seperti pada minggu pertama dan install sequelize dengan perintah <code>sudo npm install -g sequelize-cli</code> untuk kebutuhan migrasi database.
 
-<li> Selanjutnya dalam folder housy-backend/config Edit file <code>config.json</code> dan isi username, password serta host sesuai seperti yang sudah dibuat pada sesi instalasi database
+<li> Selanjutnya dalam folder housy-backend/config Edit file <code>config.json</code> dan isi username, password serta host sesuai seperti yang sudah dibuat pada sesi instalasi database, dimana host diisi oleh IP Server Database yaitu <code>10.82.2.231</code>
 </ul>
 
 <img src="/week2/assets/17.png">
