@@ -16,7 +16,7 @@ dirasa perlu, jika tidak dapat dikosongkan saja dengan mengklik enter.
 
 <img src ="/week2/assets/3.png">
 
-5. Selanjutnya jalankan perintah SSH -T git@github, jika sudah, lakukan git clone dengan perintah <code>git clone git@github.com:sgnd/housy-backend.git</code>
+5. Selanjutnya jalankan perintah SSH -T git@github, jika sudah, lakukan git clone dengan perintah <code>git clone git@github.com:ahmadrofiqef/housy-backend.git</code>
 untuk mengambil repository private dari akun github.
 
 <img src ="/week2/assets/4.png">
