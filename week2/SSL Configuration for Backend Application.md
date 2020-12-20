@@ -25,5 +25,9 @@ NB : Pastikan dalam proses instalasi certbot pada domain, pilih nomor 2 (Redirec
 
 <img src="/week2/assets/28.png">
 
+4. Selanjutnya cek dengan memasukkan URL kedalam browser kita.
 
+<img src="/week2/assets/29.png">
+
+<img src="/week2/assets/30.png">
   
