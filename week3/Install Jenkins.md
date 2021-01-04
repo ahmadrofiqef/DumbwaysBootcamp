@@ -13,4 +13,24 @@ Keterangan: - digunakan port 8080 untuk akses gui jenkins dan 50000 untuk jenkin
 2. Jika selesai menginstall jenkins di docker, selanjutnya lakukan reverse proxy, menambahkan sub-domain yang sudah didaftarkan dan memasang SSL.
 
 <img src="/week3/assets/23.png">
+
+3. Selanjutnya kita bisa mulai mengakses domain yang sudah terpasang ke browser local kita.
+
+<img src="/week3/assets/23.1.png">
+
+4. Karena kita menginstall jenkins di docker, maka untuk menampilkan security password untuk menginstall jenkins kita dapat menggunakan perintah <code>docker logs jenkins-container</code> kemudian copy dan paste.
+
+<img src="/week3/assets/23.2.png">
+
+5. Selanjutnya pilih install suggested plugins.
+
+<img src="/week3/assets/23.3.png">
+
+6. Buat user untuk jenkins.
+
+<img src="/week3/assets/23.4.png">
+
+7. Untuk jenkins url, pastikan domain yang ada adalah domain yang sudah kita pasang.
+
+<img src="/week3/assets/23.5.png">
        
