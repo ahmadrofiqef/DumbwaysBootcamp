@@ -1,5 +1,4 @@
-<ul>
-  <li>Install ansible secara manual tanpa bantuan docker
+1. Install ansible secara manual tanpa bantuan docker
 
 <pre>
 apt install python
