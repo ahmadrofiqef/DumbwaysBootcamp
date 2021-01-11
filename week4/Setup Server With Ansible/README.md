@@ -8,8 +8,21 @@ apt update
 apt install ansible
 </pre>
 
-<li>Setelah ansible terinstall, buat list inventory yang berisikan informasi host server yang ingin kita remote.
+2. Setelah ansible terinstall, buat list inventory yang berisikan informasi host server yang ingin kita remote.
+
+<img src="/week4/assets/1.png">
+
+<img src="/week4/assets/2.png">
+
+<img src="/week4/assets/3.png">
+
+<img src="/week4/assets/4.png">
+
+<img src="/week4/assets/5.png">
+
+<img src="/week4/assets/6.png">
+
   
-  <img src="/week4/assets/1.png">
+  
   
   
