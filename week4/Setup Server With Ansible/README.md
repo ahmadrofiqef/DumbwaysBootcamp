@@ -25,11 +25,15 @@ apt install ansible
 
 6. Selanjutnya buat sebuah file dengan format .yml yang nantinya akan dijalankan melalui ansible-playbook. Disini merupakan install nginx di public server, jika sudah kita bisa mengecek nginx di public server apakah sudah terinstall atau belum
 
-
 <img src="/week4/assets/5.png">
 
 <img src="/week4/assets/6.png">
 
+7. Selanjutnya kita bisa melakukan clone repository melalui ansible dengan perintah berikut
+
+<img src="/week4/assets/7.png">
+
+<img src="/week4/assets/8.png">
   
   
   
