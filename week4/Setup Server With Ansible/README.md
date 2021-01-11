@@ -11,7 +11,11 @@ apt install ansible
 
 <img src="/week4/assets/1.png">
 
+3. Jika proses instalasi ansible sudah selesai, kita bisa membuat file bernama Inventory didalam direktori ansible yang kita buat dan isi server apa saja yang ingin kita remote.
+
 <img src="/week4/assets/2.png">
+
+4. 
 
 <img src="/week4/assets/3.png">
 
