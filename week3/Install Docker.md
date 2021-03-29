@@ -1,5 +1,12 @@
 1. Pertama pastikan kita menginstall docker dikedua server milik kita yaitu server frontend & backend, tambahkan dependency-dependency untuk menginstall docker
 
+<code>sudo apt-get install curl apt-transport-https ca-certificates software-properties-common</code>
+
+- apt-transport-https = tansfer file dan data melalui https.
+- ca-certificates = untuk cek sertifikat keamanan
+- curl = transfer data
+- software-properties-common = script untuk mengelola software.
+
 <img src="/week3/assets/1.png">
 
 <img src="/week3/assets/2.png">
