@@ -20,11 +20,6 @@ apt-cache policy docker-ce
 
 <img src="/week3/assets/2.png">
 
-install docker 
-<pre>
-sudo apt install docker-ce
-</pre>
-
 <img src="/week3/assets/3.png">
 
 2. Selanjutnya kita bisa mulai menginstall docker dengan perintah <code>sudo apt install docker-ce</code>
