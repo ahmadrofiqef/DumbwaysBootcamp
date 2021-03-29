@@ -2,14 +2,28 @@
 
 <code>sudo apt-get install curl apt-transport-https ca-certificates software-properties-common</code>
 
+<pre>
 - apt-transport-https = tansfer file dan data melalui https.
 - ca-certificates = untuk cek sertifikat keamanan
 - curl = transfer data
 - software-properties-common = script untuk mengelola software.
+</pre>
 
 <img src="/week3/assets/1.png">
 
+<pre>
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+sudo apt update
+apt-cache policy docker-ce
+</pre>
+
 <img src="/week3/assets/2.png">
+
+install docker 
+<pre>
+sudo apt install docker-ce
+</pre>
 
 <img src="/week3/assets/3.png">
 
