@@ -12,7 +12,7 @@
 
 <img src="/week3/assets/9.png">
 
-4. Selanjutnya kita akan membuat sebuah docker container dengan perintah <code>docker container create --name nama-container -p port-aplikasi:port nama-image:tag</code>
+4. Selanjutnya kita akan membuat sebuah docker container dengan image yang sudah dibuat dengan perintah <code>docker container create --name nama-container -p port-aplikasi:port nama-image:tag</code>
   
 <img src="/week3/assets/10.png">
 
