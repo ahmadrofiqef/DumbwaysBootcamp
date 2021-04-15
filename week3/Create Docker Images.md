@@ -4,7 +4,7 @@
 
 <img src="/week3/assets/15.png">
 
-2. Selanjutnya lakukan <code>docker build -t <nama-image>:<tag> .</code> yang otomatis akan mengeksekusi dockerfile yang sudah kita buat tadi
+2. Selanjutnya lakukan <code>docker build -t nama-image:tag-versi .</code> yang otomatis akan mengeksekusi dockerfile yang sudah kita buat tadi
 
 <img src="/week3/assets/8.png">
 
